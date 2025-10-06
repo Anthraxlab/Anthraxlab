@@ -14,14 +14,14 @@
 
 We are **Anthrax Lab**, a vibrant hackerspace at the **University of Western Macedonia** (Department of Electrical & Computer Engineering). Our mission is to create a collaborative environment where students, researchers, and tech enthusiasts can learn, experiment, and build innovative projects together.
 
-```
+<pre style="color: #00FF00; background-color: #0D1117; padding: 10px; border-radius: 5px;">
  █████╗ ███╗   ██╗████████╗██╗  ██╗██████╗  █████╗ ██╗  ██╗██╗      █████╗ ██████╗
 ██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔══██╗██╔══██╗╚██╗██╔╝██║     ██╔══██╗██╔══██╗
 ███████║██╔██╗ ██║   ██║   ███████║██████╔╝███████║ ╚███╔╝ ██║     ███████║██████╔╝
 ██╔══██║██║╚██╗██║   ██║   ██╔══██║██╔══██╗██╔══██║ ██╔██╗ ██║     ██╔══██║██╔══██╗
 ██║  ██║██║ ╚████║   ██║   ██║  ██║██║  ██║██║  ██║██╔╝ ██╗███████╗██║  ██║██████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝
-```
+</pre>
 
 > DIGITAL HACKERSPACE FOR CREATORS, BUILDERS & INNOVATORS
 
@@ -142,7 +142,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 ### 💚 Our Sponsors
 
-*Interested in sponsoring Anthrax Lab? [Get in touch!](mailto:sponsorship@anthraxlab.com)*
+*Interested in sponsoring Anthrax Lab? [Get in touch!](mailto:the@anthraxlab.com)*
 
 ---
 
