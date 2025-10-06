@@ -131,8 +131,8 @@ We are committed to providing a welcoming and inclusive environment for everyone
 ## 📫 Contact
 
 - 🌐 **Website**: [anthraxlab.com](https://www.anthraxlab.com/)
-- 📧 **Email**: contact@anthraxlab.com
-- 💬 **Discord**: [Join our server](https://discord.gg/your-invite)
+- 📧 **Email**: the@anthraxlab.com
+- 💬 **Discord**: [Join our server](https://discord.gg/Dh6AJnBh)
 - 🐦 **Twitter**: [@anthraxlab](https://twitter.com/anthraxlab)
 - 📷 **Instagram**: [@anthraxlab](https://instagram.com/anthraxlab)
 
