@@ -12,7 +12,7 @@
 
 ## 👋 About Us
 
-We are **Anthrax Lab**, a vibrant hackerspace at the **University of Western Macedonia** (Department of Electrical & Computer Engineering). Our mission is to create a collaborative environment where students, researchers, and tech enthusiasts can learn, experiment, and build innovative projects together.
+We are **Anthraxlab**, a vibrant hackerspace at the **University of Western Macedonia** (Department of Electrical & Computer Engineering). Our mission is to create a collaborative environment where students, researchers, and tech enthusiasts can learn, experiment, and build innovative projects together.
 
 ```diff
 + █████╗ ███╗   ██╗████████╗██╗  ██╗██████╗  █████╗ ██╗  ██╗██╗      █████╗ ██████╗ +
