@@ -1,7 +1,7 @@
 ### *Hackerspace | Innovation Hub | Tech Community*
 
 [![Website](https://img.shields.io/badge/Website-anthraxlab.com-blue?style=flat-square&logo=google-chrome)](https://www.anthraxlab.com/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Dh6AJnBh)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/anthraxlab)
 
 **Hack the Planet, Build the Future** 🚀
