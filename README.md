@@ -107,8 +107,8 @@ We welcome everyone interested in technology, regardless of experience level!
 
 ### Join Us
 - 🌐 Visit our [website](https://www.anthraxlab.com/)
-- 💬 Join our Discord server
-- 📧 Email us at: contact@anthraxlab.com
+- 💬 Join our [Join our Discord server](https://discord.gg/Dh6AJnBh)
+- 📧 Email us at: the@anthraxlab.com
 - 📍 Visit us: University of Western Macedonia, ECE Department
 
 ### Contribute
